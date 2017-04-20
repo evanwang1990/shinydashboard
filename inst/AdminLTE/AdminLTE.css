@@ -2353,6 +2353,7 @@ a:focus {
  * Component: alert
  * ----------------
  */
+/*
 .alert {
   border-radius: 3px;
 }
@@ -2388,6 +2389,8 @@ a:focus {
 .alert-info {
   border-color: #00acd6;
 }
+*/
+
 /*
  * Component: Nav
  * --------------
@@ -3762,11 +3765,13 @@ table.text-center th {
 .callout.callout-warning,
 .callout.callout-info,
 .callout.callout-success,
+/*
 .alert-success,
 .alert-danger,
 .alert-error,
 .alert-warning,
 .alert-info,
+*/
 .label-danger,
 .label-info,
 .label-warning,
